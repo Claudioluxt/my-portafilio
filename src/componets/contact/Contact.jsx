@@ -3,11 +3,14 @@ import './contact.css';
 
 import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
-const Contact = () => {
- 
-    const form = useRef();
 
-  const sendEmail = (e) => {
+
+
+
+const Contact = () => {
+
+ const form = useRef();
+ const sendEmail = (e) => {
     e.preventDefault();
 
     emailjs.
@@ -18,7 +21,8 @@ const Contact = () => {
                     )
 
             e.target.reset()
-  };
+  
+};
 
     return (
 
@@ -114,5 +118,6 @@ const Contact = () => {
     </section>
   )
 }
+
 
 export default Contact

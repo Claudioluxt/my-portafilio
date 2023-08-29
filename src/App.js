@@ -1,6 +1,6 @@
 import './App.css';
 import About from './componets/about/About';
-import Contact from './componets/contact/Contact';
+
 import Footer from './componets/footer/Footer';
 import Header from './componets/header/header';
 import Home from './componets/home/Home';
@@ -14,9 +14,6 @@ const App = () => {
      <main className='main'>
       <Home />
       <About />
-
-
-      <Contact />
       
      </main>
      <Footer />
