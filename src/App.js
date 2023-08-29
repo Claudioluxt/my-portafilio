@@ -19,8 +19,7 @@ const App = () => {
       <Contact />
       
      </main>
-     
-      <Footer />
+     <Footer />
       <Scrollup />
 
 
