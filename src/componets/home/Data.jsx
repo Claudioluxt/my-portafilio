@@ -55,7 +55,7 @@ const Data = () => {
         </svg>
         </h1>
         <h3 className="home__subtitle"> *** Jr. WEB DEVELOPER ***</h3>
-        <p className="home__description">Hola Mundo! 👋 Soy Claudio Gabriel Luexn Espioza Jr. Developer 🎯 Busco ser parte de un equipo de trabajo ágil para solucionar problemas empresariales desde el FRONT🚀
+        <p className="home__description">Hola Mundo! 👋 Soy Claudio Gabriel Luxen Espioza Jr. Developer 🎯 Busco ser parte de un equipo de trabajo ágil para solucionar problemas empresariales desde el FRONT🚀
 const perfil = [ "Programador de aplicaciones web", "Sólidos conocimientos de lógica de programación" ];
         </p>
 
